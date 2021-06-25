@@ -25,7 +25,7 @@ Features
 Build the javascript version
 ----------------------------
 
-You need to make sure you have both emscripten and sconstruct installed.
+You need to make sure you have both emscripten (1.40.1) and sconstruct installed.
 
     # Setup emscripten path.
     source $PATH_TO_EMSDK/emsdk_env.sh
